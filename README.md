@@ -36,6 +36,8 @@ Number of employees in different age groups <br>
 Department-wise distribution <br>
 Attrition rate by gender for different age groups <br>
 Education field-wise attrition <br>
+![Screenshot (46) 2](https://github.com/PoshankBramhe/HR_Analytics/assets/154652656/81cb7b2a-7501-4cec-ae97-34b4f90d24f1)
+
 <h3>Usage</h3> <br>
 Ensure you have Tableau installed. <br>
 Download the HR Analytics project data. <br>
